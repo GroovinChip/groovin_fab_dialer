@@ -1,9 +1,9 @@
 
 # Introduction
 
-THIS IS A FORK OF https://github.com/Leondev7/flutter_fab_dialer
+This is a fork of https://www.uplabs.com/posts/travel-app-light-dark, which is a fork of https://github.com/Leondev7/flutter_fab_dialer
 
-This is a Widget build for having an alternative to default menus
+This is a Widget build for having an alternative to default menus. My version allows for the use of Extended FABs.
 
 ![alt text](https://github.com/shoxter/flutter_fab_dialer/blob/master/src/demo.gif )
 
